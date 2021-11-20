@@ -1,3 +1,5 @@
 hello world
 
 fix -b add
+
+fix -c add
