@@ -2,4 +2,4 @@ hello world
 
 fix -b add
 
-fix -c add
+feature -c add
